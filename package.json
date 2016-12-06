@@ -1,0 +1,13 @@
+{
+  "name": "express-bootstrap-pagination",
+  "version": "1.0.0",
+  "description": "Express middlware for generate standard page navigation bar styled with Bootstrap 3",
+  "main": "index.js",
+  "homepage": "https://github.com/sattellite/express-bootstrap-pagination",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sattellite/express-bootstrap-pagination.git"
+  },
+  "author": "Alexander Groshev <null@sattellite.me>",
+  "license": "MIT"
+}
